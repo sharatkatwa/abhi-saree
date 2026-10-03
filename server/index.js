@@ -22,7 +22,7 @@ const DEFAULT_SETTINGS = {
   email: 'hello@ilkalsilk.in',
   city: 'Ilkal, Bagalkot, Karnataka',
   hours: '10:00 AM – 7:30 PM IST',
-  instagram: 'ilkal.silk.sarees',
+  instagram: 'vedika_ramdurg',
   freeShip: 4999,
 }
 

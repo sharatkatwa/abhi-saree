@@ -7,8 +7,7 @@ export default function Footer() {
       <div className="wrap">
         <strong>ILKAL SILK</strong>
         <p>
-          Handloom sarees from Ilkal, Bagalkot — GI-tagged since 2007. Tope Teni pallu, Chikki
-          borders, Kasuti stitch. The same looms, the same families.
+          Ramdurg,belgum district, Karnataka, India.
         </p>
         <div className="footer-links">
           <Link to="/shop">The collection</Link>

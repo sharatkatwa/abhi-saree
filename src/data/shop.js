@@ -5,7 +5,7 @@ export const SHOP = {
   tagline: 'Heritage silk from the looms of Ilkal',
   kannada: 'ಇಳಕಲ್ ಸೀರೆ',
   instagram: 'ilkal.silk.sarees',
-  instagramUrl: 'https://www.instagram.com/ilkal.silk.sarees/',
+  instagramUrl: 'https://www.instagram.com/vedika_ramdurg?stkn=MW05YjF3d2N1bHhudg==',
   whatsapp: '919731025877',
   email: 'hello@ilkalsilk.in',
   city: 'Ilkal, Bagalkot, Karnataka',

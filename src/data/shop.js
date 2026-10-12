@@ -8,14 +8,13 @@ export const SHOP = {
   instagramUrl: 'https://www.instagram.com/vedika_ramdurg?stkn=MW05YjF3d2N1bHhudg==',
   whatsapp: '919731025877',
   email: 'hello@ilkalsilk.in',
-  city: 'Ilkal, Bagalkot, Karnataka',
+  city: 'Ramdurg,belgum district, Karnataka, India.',
   hours: '10:00 AM – 7:30 PM IST',
   freeShip: 4999,
 }
 
 export const CATEGORIES = [
   { id: 'all', label: 'All looms' },
-  { id: 'silk', label: 'Silk' },
   { id: 'cotton', label: 'Cotton' },
   { id: 'kasuti', label: 'Kasuti' },
   { id: 'checks', label: 'Chikki checks' },

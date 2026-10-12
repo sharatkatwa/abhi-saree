@@ -8,7 +8,7 @@ export default function Heritage() {
         <img src="/images/hero/pallu-gold.jpg" alt="Gold Ilkal pallu with temple motifs" />
         <div className="inner">
           <span className="kicker" style={{ color: 'var(--gold-2)' }}>
-            Ilkal · Bagalkot · Karnataka
+            Ramdurg,belgum district, Karnataka, India.
           </span>
           <h1>A saree older than the gazette.</h1>
         </div>
